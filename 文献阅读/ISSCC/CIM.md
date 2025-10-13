@@ -1,6 +1,6 @@
 ## Compute in Memory(CIM)
 
-### What is Compute in Memory?
+### What is Compute in Memory?  您好
 In the tradition computer architecture named **Von Neumann architecture**, this kind of architecture combine the **insturctions** with **database** together. Nowadays, the CPUs have processing speed up to several Giga Hz that the CPU calculation speed is much higher visit speed. Since CPU speed and memory size have increased much faster than the throughput between them, the bottleneck has become more of a problem, a problem whose severity increases with every newer generation of CPU. Here are some solutions to break Vo Neumann's bottlenack.
 1. Providing a cache between the CPU and the main memory
 2. providing separate caches or separate access paths for data and instructions (the so-called Modified Harvard architecture)
@@ -23,5 +23,4 @@ From the example above, the memory and compute process are combined together, li
 4. PCM
 
 5. 
-
 
