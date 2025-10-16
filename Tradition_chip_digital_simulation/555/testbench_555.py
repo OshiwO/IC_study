@@ -2,6 +2,7 @@ from fff import nfff
 
 import numpy as np
 import matplotlib.pyplot as plt
+#hi
 
 ###
 VCC = 1.8
